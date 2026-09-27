@@ -58118,10 +58118,42 @@ interactions:
               "upload-time": "2026-07-25T15:12:07.385487Z",
               "url": "https://files.pythonhosted.org/packages/fb/48/fb042503b6ca6cd271261dc559fd6432f7d8c713153e9ec5c591af4dfc1c/pytz-2026.3.post1.tar.gz",
               "yanked": false
+            },
+            {
+              "core-metadata": {
+                "sha256": "45216c70eee4d558fc131d368920c36ed02a61b0774fd8dc7aa17be22edec52b"
+              },
+              "data-dist-info-metadata": {
+                "sha256": "45216c70eee4d558fc131d368920c36ed02a61b0774fd8dc7aa17be22edec52b"
+              },
+              "filename": "pytz-2026.4-py2.py3-none-any.whl",
+              "hashes": {
+                "sha256": "9d514388fbc89ca0833203464272ac485b8828568ab73532f5020f17e892a0ff"
+              },
+              "provenance": "https://pypi.org/integrity/pytz/2026.4/pytz-2026.4-py2.py3-none-any.whl/provenance",
+              "requires-python": null,
+              "size": 506747,
+              "upload-time": "2026-09-24T03:58:38.629845Z",
+              "url": "https://files.pythonhosted.org/packages/d5/11/e3df59614bebe0ca50c905442603eda64ae7ac19811d4e4f74aa2d51ca85/pytz-2026.4-py2.py3-none-any.whl",
+              "yanked": false
+            },
+            {
+              "core-metadata": false,
+              "data-dist-info-metadata": false,
+              "filename": "pytz-2026.4.tar.gz",
+              "hashes": {
+                "sha256": "464303645bafafd72418898368b2429458f709cf1eb6a15372fbcc396b64da63"
+              },
+              "provenance": "https://pypi.org/integrity/pytz/2026.4/pytz-2026.4.tar.gz/provenance",
+              "requires-python": null,
+              "size": 318444,
+              "upload-time": "2026-09-24T03:58:40.443187Z",
+              "url": "https://files.pythonhosted.org/packages/b0/ed/fa23d28713004418bbf2407127f80f385bfb0bf4e677bef02c25c27b00ee/pytz-2026.4.tar.gz",
+              "yanked": false
             }
           ],
           "meta": {
-            "_last-serial": 39364553,
+            "_last-serial": 41394708,
             "api-version": "1.4"
           },
           "name": "pytz",
@@ -58251,7 +58283,8 @@ interactions:
             "2026.1.post1",
             "2026.2",
             "2026.3",
-            "2026.3.post1"
+            "2026.3.post1",
+            "2026.4"
           ]
         }
       headers:
@@ -58280,7 +58313,7 @@ interactions:
         Strict-Transport-Security:
           - max-age=31536000; includeSubDomains; preload
         Vary:
-          - Accept, Accept-Encoding
+          - Accept-Encoding, Accept
         X-Content-Type-Options:
           - nosniff
         X-Frame-Options:
@@ -68514,10 +68547,42 @@ interactions:
               "upload-time": "2026-04-02T18:49:14.268187Z",
               "url": "https://files.pythonhosted.org/packages/dd/b2/381be8cfdee792dd117872481b6e378f85c957dd7c5bca38897b08f765fd/werkzeug-3.1.8.tar.gz",
               "yanked": false
+            },
+            {
+              "core-metadata": {
+                "sha256": "9f04352e946ecb0883fbf379994c1cacf6720a124acdd7fd59029a889f4eebba"
+              },
+              "data-dist-info-metadata": {
+                "sha256": "9f04352e946ecb0883fbf379994c1cacf6720a124acdd7fd59029a889f4eebba"
+              },
+              "filename": "werkzeug-3.1.9-py3-none-any.whl",
+              "hashes": {
+                "sha256": "6392e50c78460ba618e5b21f08a71f59c99ce99cdc6cf6e3dd7e6ccca8754fab"
+              },
+              "provenance": "https://pypi.org/integrity/werkzeug/3.1.9/werkzeug-3.1.9-py3-none-any.whl/provenance",
+              "requires-python": ">=3.9",
+              "size": 228700,
+              "upload-time": "2026-09-27T18:33:39.685530Z",
+              "url": "https://files.pythonhosted.org/packages/a1/38/df03f564f43cec2684823f3cccae1a652ee7face1cbaa76fb223096e64d7/werkzeug-3.1.9-py3-none-any.whl",
+              "yanked": false
+            },
+            {
+              "core-metadata": false,
+              "data-dist-info-metadata": false,
+              "filename": "werkzeug-3.1.9.tar.gz",
+              "hashes": {
+                "sha256": "55ca7c70a75689be937aa27f8ff4b018f06ff4838fc73045560bf0f5a1291060"
+              },
+              "provenance": "https://pypi.org/integrity/werkzeug/3.1.9/werkzeug-3.1.9.tar.gz/provenance",
+              "requires-python": ">=3.9",
+              "size": 940188,
+              "upload-time": "2026-09-27T18:33:41.637920Z",
+              "url": "https://files.pythonhosted.org/packages/a4/34/4dd12fc8bb7d61c91467ec3efe415ffa7d5456f799954b40c5bbaeae470e/werkzeug-3.1.9.tar.gz",
+              "yanked": false
             }
           ],
           "meta": {
-            "_last-serial": 35738641,
+            "_last-serial": 41523922,
             "api-version": "1.4"
           },
           "name": "werkzeug",
@@ -68629,7 +68694,8 @@ interactions:
             "3.1.5",
             "3.1.6",
             "3.1.7",
-            "3.1.8"
+            "3.1.8",
+            "3.1.9"
           ]
         }
       headers:
@@ -68658,7 +68724,7 @@ interactions:
         Strict-Transport-Security:
           - max-age=31536000; includeSubDomains; preload
         Vary:
-          - Accept, Accept-Encoding
+          - Accept-Encoding, Accept
         X-Content-Type-Options:
           - nosniff
         X-Frame-Options:
@@ -68674,7 +68740,7 @@ interactions:
       proto: HTTP/1.1
       proto_major: 1
       proto_minor: 1
-      content_length: 1604
+      content_length: 1598
       host: api.osv.dev
       body: |
         {
@@ -68747,7 +68813,7 @@ interactions:
                 "ecosystem": "PyPI",
                 "name": "pytz"
               },
-              "version": "2026.3.post1"
+              "version": "2026.4"
             },
             {
               "package": {
@@ -68768,7 +68834,7 @@ interactions:
                 "ecosystem": "PyPI",
                 "name": "werkzeug"
               },
-              "version": "3.1.8"
+              "version": "3.1.9"
             }
           ]
         }
@@ -68940,7 +69006,7 @@ interactions:
               "vulns": [
                 {
                   "id": "GHSA-2xpw-w6gg-jr37",
-                  "modified": "2026-09-10T03:50:31.327173Z"
+                  "modified": "2026-09-25T17:15:05.968189Z"
                 },
                 {
                   "id": "GHSA-34jh-p97f-mpxf",
